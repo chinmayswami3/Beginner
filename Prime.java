@@ -27,6 +27,7 @@ class Prime
             }
             System.out.print("Do you want to try again sir/mam? Enter any number to continue and enter 0 to exit: ");
             c=sc.nextInt();
+            System.out.println("Program runs again.");
         }
     }
 }
