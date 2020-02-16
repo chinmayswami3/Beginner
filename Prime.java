@@ -25,7 +25,7 @@ class Prime
             {
                 System.out.println(n+" is a Composite number.");
             }
-            System.out.print("Do you want to try again? Enter any number to continue and enter 0 to exit: ");
+            System.out.print("Do you want to try again sir/mam? Enter any number to continue and enter 0 to exit: ");
             c=sc.nextInt();
         }
     }
