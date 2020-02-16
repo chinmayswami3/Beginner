@@ -8,7 +8,7 @@ class Prime
         while(c!=0)
         {
             c=0;
-            System.out.print("Enter number to check for Prime: ");
+            System.out.print("Please enter number to check for Prime: ");
             n=sc.nextInt();
             for(i=1;i<=n;i++)
             {
